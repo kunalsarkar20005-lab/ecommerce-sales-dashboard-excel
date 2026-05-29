@@ -18,4 +18,4 @@ This project is an interactive Ecommerce Sales Dashboard created using Microsoft
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png.png)
