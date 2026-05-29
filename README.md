@@ -49,7 +49,7 @@ The dashboard helps analyze:
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard-preview.png" width="100%">
+  <img src="dashboard-preview.png.png" width="100%">
 </p>
 
 ---
