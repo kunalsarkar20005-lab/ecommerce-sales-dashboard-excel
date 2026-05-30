@@ -1,43 +1,53 @@
 <div align="center">
 
-# 🛒 Ecommerce Sales Dashboard
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Interactive+Ecommerce+Sales+Dashboard;Built+Using+Microsoft+Excel;Sales+Profit+and+Regional+Insights;Data+Analytics+Project"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:434343&text=ECOMMERCE%20SALES%20DASHBOARD&fontColor=FFFFFF&fontSize=42&fontAlignY=40"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Interactive+Ecommerce+Sales+Dashboard;Sales+Profit+and+Regional+Insights;Business+Intelligence+Using+Excel;Data+Analytics+Project"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Microsoft-Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Data-Analytics-000000?style=for-the-badge">
 <img src="https://img.shields.io/badge/Dashboard-Interactive-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Project-Business%20Insights-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Business-Insights-000000?style=for-the-badge">
 
 </div>
 
 ---
 
-# 📌 Project Overview
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750547-4e44a8b8-f8d2-4f3b-a3e8-c5f72b5f6e5c.gif" width="100%">
+</p>
 
-This project is an **Interactive Ecommerce Sales Dashboard** developed using **Microsoft Excel** to analyze sales performance and generate actionable business insights.
+# 🛒 Ecommerce Sales Dashboard
 
-The dashboard transforms raw ecommerce transaction data into meaningful visual reports, enabling users to monitor sales trends, profit performance, regional contributions, and category-wise performance through an interactive interface.
+## 📌 Project Overview
+
+This project is an interactive Ecommerce Sales Dashboard developed using Microsoft Excel to analyze sales performance and generate actionable business insights.
+
+The dashboard helps businesses understand sales trends, profit performance, regional contributions, and category-wise performance through interactive visualizations and reporting.
 
 ---
 
-# 🎯 Project Objective
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750547-4e44a8b8-f8d2-4f3b-a3e8-c5f72b5f6e5c.gif" width="100%">
+</p>
 
-The primary objective of this project is to:
+# 🎯 Project Objective
 
 ✔ Analyze overall sales performance
 
-✔ Track profitability trends
-
-✔ Identify top-performing categories
-
-✔ Compare regional performance
+✔ Track profit trends
 
 ✔ Monitor quantity sold
 
-✔ Support data-driven business decisions
+✔ Compare regional performance
+
+✔ Evaluate category performance
+
+✔ Support data-driven decision making
 
 ---
 
@@ -45,13 +55,13 @@ The primary objective of this project is to:
 
 <div align="center">
 
-| 💰 Sales Analysis | 📈 Profit Tracking | 🛒 Quantity Monitoring |
+| 💰 Sales Analysis | 📈 Profit Analysis | 🛒 Quantity Tracking |
 |:---:|:---:|:---:|
-| Revenue Performance | Profit Trends | Units Sold |
+| Revenue Monitoring | Profit Trends | Units Sold |
 
-| 🌍 Regional Insights | 📊 Category Analysis | 📋 Interactive Reporting |
+| 🌍 Regional Insights | 📊 Category Analysis | 🎛️ Interactive Dashboard |
 |:---:|:---:|:---:|
-| Region Comparison | Category Performance | Dynamic Dashboard |
+| Region Comparison | Category Performance | Dynamic Reporting |
 
 </div>
 
@@ -59,34 +69,43 @@ The primary objective of this project is to:
 
 # 🚀 Features
 
-### 📌 Business Analytics
+### 📌 Analytics Features
 
-- KPI Cards
-- Sales Trend Analysis
-- Profit Analysis
-- Category Performance Tracking
-- Region-wise Analysis
-- Quantity Sold Monitoring
+✅ KPI Cards
 
-### 📌 Interactive Functionality
+✅ Interactive Slicers
 
-- Dynamic Slicers
-- Interactive Filters
-- Drill-down Analysis
-- Visual Reporting
-- Real-Time Dashboard Navigation
+✅ Sales Trend Analysis
+
+✅ Profit Analysis
+
+✅ Regional Performance Tracking
+
+✅ Category Performance Monitoring
+
+✅ Dynamic Filtering
+
+✅ Interactive Reporting
 
 ---
 
-# 🛠️ Tools & Technologies
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750547-4e44a8b8-f8d2-4f3b-a3e8-c5f72b5f6e5c.gif" width="100%">
+</p>
+
+# 🛠️ Tools Used
+
+<div align="center">
 
 | Tool | Purpose |
 |--------|---------|
 | Microsoft Excel | Dashboard Development |
 | Pivot Tables | Data Summarization |
-| Pivot Charts | Data Visualization |
+| Pivot Charts | Visualization |
 | Slicers | Interactive Filtering |
 | Excel Functions | Data Analysis |
+
+</div>
 
 ---
 
@@ -100,55 +119,56 @@ The primary objective of this project is to:
 
 ---
 
-# 📈 Key Business Insights
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750547-4e44a8b8-f8d2-4f3b-a3e8-c5f72b5f6e5c.gif" width="100%">
+</p>
+
+# 📈 Key Insights
 
 ### 🏆 Sales Performance
 
-- Total sales performance was effectively tracked across different business segments.
-- Monthly trends revealed fluctuations in customer purchasing behavior.
+- Total sales performance was effectively monitored across different business segments.
+- Monthly sales trends highlighted peak business periods.
 
 ### 💹 Profit Analysis
 
-- Electronics category generated the highest profit contribution.
-- Profit tracking helped identify the most valuable product segments.
+- Electronics category generated the highest profit.
+- Profit analysis identified the most valuable product segments.
 
 ### 🌍 Regional Performance
 
-- West Region achieved the highest sales performance.
-- Regional analysis highlighted strong and weak performing markets.
+- West region achieved the highest sales performance.
+- Regional comparisons highlighted strong-performing markets.
 
 ### 📦 Category Analysis
 
-- Category-wise comparisons enabled better understanding of customer preferences.
-- High-performing categories contributed significantly to revenue growth.
+- Category-wise tracking revealed customer purchasing patterns.
+- High-performing categories contributed significantly to overall revenue.
 
 ---
 
-# 📊 Dashboard Workflow
+# 🎛️ Dashboard Workflow
 
 ```text
-Raw Ecommerce Data
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-Data Processing
-        │
-        ▼
-Pivot Table Creation
-        │
-        ▼
-Chart Development
-        │
-        ▼
-Slicer Integration
-        │
-        ▼
-Interactive Dashboard
-        │
-        ▼
-Business Insights
+📥 Raw Ecommerce Data
+          │
+          ▼
+🧹 Data Cleaning
+          │
+          ▼
+📊 Pivot Tables
+          │
+          ▼
+📈 Pivot Charts
+          │
+          ▼
+🎛️ Slicer Integration
+          │
+          ▼
+📋 Interactive Dashboard
+          │
+          ▼
+💡 Business Insights
 ````
 
 ---
@@ -159,8 +179,8 @@ Business Insights
 
 * Sales Analysis
 * Profit Analysis
-* Trend Analysis
 * KPI Reporting
+* Trend Analysis
 * Business Intelligence
 
 ### Microsoft Excel
@@ -168,15 +188,15 @@ Business Insights
 * Pivot Tables
 * Pivot Charts
 * Dashboard Design
-* Data Visualization
 * Interactive Reporting
+* Data Visualization
 
 ### Business Analysis
 
 * Regional Performance Analysis
-* Category Performance Tracking
-* Revenue Monitoring
-* Strategic Decision Support
+* Category Analysis
+* Revenue Tracking
+* Decision Support
 
 ---
 
@@ -196,17 +216,17 @@ Business Insights
 
 # 🚀 Future Enhancements
 
-* Customer Segmentation Analysis
 * Sales Forecasting
-* Automated KPI Reporting
-* Advanced Excel Dashboards
+* Customer Segmentation
+* Automated Reporting
+* Advanced KPI Tracking
 * Power BI Integration
 
 ---
 
 # 📌 Project Impact
 
-This dashboard converts raw ecommerce sales data into meaningful business intelligence by helping stakeholders:
+This dashboard transforms raw ecommerce data into meaningful business intelligence by helping stakeholders:
 
 ✅ Monitor Sales Performance
 
@@ -216,7 +236,7 @@ This dashboard converts raw ecommerce sales data into meaningful business intell
 
 ✅ Evaluate Product Categories
 
-✅ Support Strategic Decisions
+✅ Improve Business Decisions
 
 ---
 
@@ -225,6 +245,8 @@ This dashboard converts raw ecommerce sales data into meaningful business intell
 ## ⭐ Transforming Data Into Actionable Business Insights
 
 ### Built with Microsoft Excel
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:434343"/>
 
 </div>
 ```
